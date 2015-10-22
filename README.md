@@ -1,0 +1,2 @@
+# framework-core
+maven model
